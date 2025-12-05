@@ -5,3 +5,5 @@ In this retail case study, I analyzed customer purchase data to solve business c
 Key Libraries used (Python):
 Pandas: For handling the dataset.
 Matplotlib / Seaborn: For the visualizations.
+
+Project can be viewed by opening the file on Jupyter Notebook.
